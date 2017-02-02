@@ -1,0 +1,16 @@
+;
+; @author : tiboitel@student.42.fr
+; @title: 02_push_all_type.avm
+;
+push int8(23)
+push int8(43)
+push int16(323)
+push int16(32434)
+push int32(32344)
+push int32(54)
+push float(42)
+push float(42.45)
+push double(455.32)
+push double(424.32)
+dump
+exit

@@ -1,0 +1,24 @@
+;
+; @author : tiboitel@student.42.fr
+; @title: 08_mul_hard_type.avm
+;
+push int8(2)
+push int8(4)
+mul
+dump
+push int16(46)
+mul
+dump
+push int32(5466)
+mul
+dump
+push float(0.55)
+mul
+dump
+push int32(56)
+mul
+dump
+push double(0.678907)
+mul
+dump
+exit

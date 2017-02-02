@@ -1,0 +1,15 @@
+;
+; @author: tiboitel@student.42.fr
+; @title: 17_assert_hard.avm
+;
+push int8(42)
+assert int8(42)
+push int16(2443)
+assert int16(2443)
+push int32(53535)
+assert int32(53535)
+push float(20.20)
+assert float(20.2)
+push double(20.202)
+assert double(20.202)
+exit
