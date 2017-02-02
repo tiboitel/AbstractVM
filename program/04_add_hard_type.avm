@@ -1,0 +1,24 @@
+;
+; @author : tiboitel@student.42.fr
+; @title: 04_add_hard_type.avm
+;
+push int8(2)
+push int8(4)
+add
+dump
+push int16(46)
+add
+dump
+push int32(5466)
+add
+dump
+push float(0.55)
+add
+dump
+push int32(56)
+add
+dump
+push double(0.678907)
+add
+dump
+exit

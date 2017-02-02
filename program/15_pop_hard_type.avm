@@ -1,0 +1,20 @@
+;
+; @author: tiboitel@student.42.fr
+; @title: 15_pop_hard_type.avm
+;
+push int8(42)
+dump
+pop
+push int16(42)
+dump
+pop
+push int32(42)
+dump
+pop
+push float(4.32)
+dump
+pop
+push double(42.424242)
+dump
+pop
+exit

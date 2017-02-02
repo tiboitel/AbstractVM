@@ -1,0 +1,7 @@
+;
+; @author: tiboitel@student.42.fr
+; @title: 16_assert_simple.avm
+;
+push int8(42)
+assert int16(42)
+exit

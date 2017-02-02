@@ -1,0 +1,7 @@
+;
+; @author: tiboitel@student.42.fr
+; @title: 23_pop_exception.avm
+;
+
+pop
+exit

@@ -1,0 +1,7 @@
+;
+; @author: tiboitel@student.42.fr
+; @title: 27_less_value_exception.avm
+;
+push int8(2)
+mod
+exit

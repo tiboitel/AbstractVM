@@ -1,0 +1,10 @@
+;
+; @author : tiboitel@student.42.fr
+; @title: 11_mod_simple_type.avm
+;
+push int8(23)
+push int8(43)
+dump
+mod
+dump
+exit
